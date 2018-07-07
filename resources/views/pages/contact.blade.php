@@ -1,1 +1,6 @@
-<h3>Strona kontaktowa</h3>
+@extends('master')
+@section('content')
+
+<h1>Strona kontaktowa</h1>
+
+@stop
