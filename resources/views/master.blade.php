@@ -77,7 +77,7 @@
 
 
     <!-- Footer -->
-    <footer class="site-footer">
+    <footer class="page-footer site-footer">
         <div class="container">
             <p>&copy; Wojciech Smolarek 2018</p>
         </div>
